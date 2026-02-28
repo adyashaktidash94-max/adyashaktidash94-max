@@ -80,7 +80,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-![Snake animation](https://github.com/adyashaktidash94-max/adyashaktidash94-max/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/adyashaktidash94-max/adyashaktidash94-max/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
