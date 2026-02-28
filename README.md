@@ -24,7 +24,7 @@
   <a href="mailto:adyashaktidash94-max@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=FF8C00&colorB=FFD700"/>
   </a>
-  <a href="https://adyashaktidash94-max.github.io">
+  <a href="https://adyashaktiadya.in/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&colorA=8A2BE2&colorB=00FFFF"/>
   </a>
 </p>
