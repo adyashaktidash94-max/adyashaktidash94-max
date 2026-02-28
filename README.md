@@ -18,7 +18,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/adyashaktidash94-max">
+  <a href="https://www.linkedin.com/in/adyashakti-dash/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&colorA=FF69B4&colorB=00FFFF"/>
   </a>
   <a href="mailto:adyashaktidash94-max@example.com">
