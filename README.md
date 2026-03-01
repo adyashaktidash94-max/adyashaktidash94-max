@@ -7,8 +7,7 @@
 
 <!-- Typing Name Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=40&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Adyashakti+Dash;
-    Aspiring+Frontend+Developer;React+%26+Python+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=40&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Adyashakti+Dash;Aspiring+Frontend+Developer;React+%26+Python+Programmer" />
 </p>
 
 <h3 align="center">Welcome to my GitHub Portfolio 🚀✨</h3>
