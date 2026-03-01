@@ -1,4 +1,4 @@
-<!-- 🌈 Ultimate Animated Gradient Premium GitHub README -->
+<!-- 🌈 Ultimate  GitHub README -->
 
 <!-- Gradient Animated Background -->
 <p align="center">
